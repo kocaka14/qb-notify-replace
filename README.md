@@ -22,4 +22,5 @@ QBCore.Functions.Notify = function(Message, Type, Time, Title)
 end
 ```
 
-image https://cdn.discordapp.com/attachments/1127546662617890938/1127546681660022865/image.png
+![image](https://github.com/kocaka14/qb-notify-replace/assets/101359455/f890b16b-0435-4a5d-8b16-944227ac6fd7)
+
