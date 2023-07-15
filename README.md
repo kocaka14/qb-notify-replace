@@ -1,7 +1,7 @@
 # qb-notify-replace
 replaces default qbcore notify with okokNotify
 
-join discord for more discord.gg/eWBEM4eRD2
+join discord for more [discord.gg/eWBEM4eRD2](https://discord.com/invite/eWBEM4eRD2)
 
 - **1 Go To qb-core/client/functions.lua**
 
