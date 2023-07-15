@@ -9,7 +9,7 @@ join discord for more [discord.gg/eWBEM4eRD2](https://discord.com/invite/eWBEM4e
 
 - **3 Delete From Around Line 88 To Around 111 Where The End Of That Function Is**
 
-- **4 Paste The Following Code In To Replace That Code!**
+- **4 Paste The Following Code!**
 
 
  ```
