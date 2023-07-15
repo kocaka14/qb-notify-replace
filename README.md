@@ -21,3 +21,5 @@ QBCore.Functions.Notify = function(Message, Type, Time, Title)
     exports['okokNotify']:Alert(Title, Message, Time, Type)
 end
 ```
+
+image https://cdn.discordapp.com/attachments/1127546662617890938/1127546681660022865/image.png
