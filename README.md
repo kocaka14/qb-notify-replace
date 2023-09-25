@@ -1,7 +1,7 @@
 # qb-notify-replace
 replaces default qbcore notify with okokNotify
 
-join discord for more [discord.gg/eWBEM4eRD2](https://discord.com/invite/eWBEM4eRD2)
+## Join discord for more [Discord](https://discord.com/invite/eWBEM4eRD2)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/703985319774650489)](https://discord.com/users/703985319774650489)
 
